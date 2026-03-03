@@ -13,3 +13,9 @@ see also: https://discord.com/channels/964330484911972403/1074840524181217452/14
 see also: https://discord.com/channels/964330484911972403/1074840524181217452/1475574724477063480
 
 ![dna-like-helix](dna-like-helix.png)
+
+## curved-dovetail-joints.py
+
+see also: https://discord.com/channels/964330484911972403/1074840524181217452/1476676341171490878
+
+![curved-dovetail-joints](curved-dovetail-joints.png)
